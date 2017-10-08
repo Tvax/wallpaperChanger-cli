@@ -6,4 +6,4 @@ Execute the script hourly :
 `sudo wget -O /etc/cron.hourly/wallpaperChanger.sh https://raw.githubusercontent.com/Tvax/wallpaperChanger-cli/master/wallpaperChanger.sh;`  
 `sudo chmod 755 /etc/cron.hourly/wallpaperChanger.sh;`
 
-### Powered by [Unsplash](unsplash.com)
+### Powered by [Unsplash](https://unsplash.com/)
